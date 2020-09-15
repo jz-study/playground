@@ -1,5 +1,5 @@
 # Playground
-cs 107 cs 109
+Jim Zhang is taking cs107 cs109
 
 A place to play with `git`.
 
