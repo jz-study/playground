@@ -1,4 +1,4 @@
-# Playground
+# Playground by Haoxin Li
 
 A place to play with `git`.
 
